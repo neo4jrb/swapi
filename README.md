@@ -1,5 +1,7 @@
 Just a fun project I put together to consume the Star Wars API (http://swapi.co/) and import it into neo4j.
 
+![Graph screen shot](screenshot.png)
+
 To run, simply execute:
 
 ```
